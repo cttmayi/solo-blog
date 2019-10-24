@@ -37,22 +37,22 @@
 * [一个工作汇报的模板 - 干得不错](http://www.gcsjj.cn/articles/2019/03/16/1552736025323.html)
 * [Kodu - 作品(战争)](http://www.gcsjj.cn/articles/2019/04/07/1554627128535.html)
 * [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
-* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
 * [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
+* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
+* [数字痴呆化](http://www.gcsjj.cn/articles/2019/04/07/1554630747019.html)
+* [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
 * [成都无人机禁飞区](http://www.gcsjj.cn/articles/2019/05/17/1558108076449.html)
-* [微习惯](http://www.gcsjj.cn/articles/2019/07/08/1562517585687.html)
 * [批判性思维 - 蔡钰得到课程15讲](http://www.gcsjj.cn/articles/2019/08/22/1566404148128.html)
 * [2019 迟到的 OKR](http://www.gcsjj.cn/articles/2019/09/13/1568307631494.html)
 * [webTable - 快速开发Web可编辑表格](http://www.gcsjj.cn/articles/2019/09/02/1567357261659.html)
+* [微习惯](http://www.gcsjj.cn/articles/2019/07/08/1562517585687.html)
 * [Python库 - pyautoit](http://www.gcsjj.cn/articles/2019/06/04/1559660792445.html)
 * [天池实验室 - 新人入门](http://www.gcsjj.cn/articles/2019/05/12/1557675052175.html)
 * [高效能人士的七个习惯 - 习惯一(积极主动)](http://www.gcsjj.cn/articles/2019/09/17/1568731407902.html)
-* [OpenCV3 - OpenCV的绘图函数](http://www.gcsjj.cn/articles/2019/04/02/1554136848113.html)
-* [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
+* [ATPCS(ARM-Thumb过程调用标准)](http://www.gcsjj.cn/articles/2019/05/05/1557070850405.html)
 * [Python 简介](http://www.gcsjj.cn/articles/2019/03/12/1552400067284.html)
-* [团队合作 - 团队领导者](http://www.gcsjj.cn/articles/2019/08/08/1565200522672.html)
-* [从"政府工作报告"解读宏观经济](http://www.gcsjj.cn/articles/2019/03/22/1553269533172.html)
-* [员工的执行力等于管理者的领导力](http://www.gcsjj.cn/articles/2019/07/04/1562170074918.html)
+* [OpenCV3 - Canny 边界检测](http://www.gcsjj.cn/articles/2019/04/02/1554136900061.html)
+* [洛克定律 - 有专一的目标, 才有专注行动](http://www.gcsjj.cn/articles/2019/03/18/1552921967126.html)
 
 ### 热议
 
@@ -67,7 +67,6 @@
 * [Python 基础语法](http://www.gcsjj.cn/articles/2019/03/12/1552402976191.html)
 * [scikit-learn算法选择图](http://www.gcsjj.cn/articles/2019/05/14/1557848255248.html)
 * [批判性思维](http://www.gcsjj.cn/articles/2019/08/09/1565364655301.html)
-* [数字痴呆化](http://www.gcsjj.cn/articles/2019/04/07/1554630747019.html)
 * [无目标, 不演讲](http://www.gcsjj.cn/articles/2019/03/28/1553788311452.html)
 * [ARM 工作模式及寄存器](http://www.gcsjj.cn/articles/2019/05/05/1557069558076.html)
 * [Code::Blocks (一款开源的C++ IDE)](http://www.gcsjj.cn/articles/2019/06/07/1559921553296.html)
@@ -76,6 +75,7 @@
 * [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
 * [演讲的本质是输出](http://www.gcsjj.cn/articles/2019/03/28/1553786472261.html)
 * [Python 小技巧 - 重试(retry)](http://www.gcsjj.cn/articles/2019/05/10/1557417732914.html)
+* [Kodu - 运算](http://www.gcsjj.cn/articles/2019/04/03/1554223619551.html)
 
 ---
 
