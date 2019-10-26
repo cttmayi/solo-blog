@@ -38,21 +38,21 @@
 * [一个工作汇报的模板 - 干得不错](http://www.gcsjj.cn/articles/2019/03/16/1552736025323.html)
 * [Kodu - 作品(战争)](http://www.gcsjj.cn/articles/2019/04/07/1554627128535.html)
 * [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
-* [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
 * [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
+* [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
 * [Google 面试题 - 玻璃球](http://www.gcsjj.cn/articles/2019/09/21/1568996649307.html)
 * [成都无人机禁飞区](http://www.gcsjj.cn/articles/2019/05/17/1558108076449.html)
 * [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
-* [批判性思维 - 蔡钰得到课程15讲](http://www.gcsjj.cn/articles/2019/08/22/1566404148128.html)
 * [Hubot - 入门指南](http://www.gcsjj.cn/articles/2019/04/12/1555001343705.html)
 * [高效能人士的七个习惯 - 习惯一(积极主动)](http://www.gcsjj.cn/articles/2019/09/17/1568731407902.html)
 * [webTable - 快速开发Web可编辑表格](http://www.gcsjj.cn/articles/2019/09/02/1567357261659.html)
+* [批判性思维 - 蔡钰得到课程15讲](http://www.gcsjj.cn/articles/2019/08/22/1566404148128.html)
 * [随口之失](http://www.gcsjj.cn/articles/2019/09/25/1569423200177.html)
+* [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
 * [微习惯](http://www.gcsjj.cn/articles/2019/07/08/1562517585687.html)
+* [Python库 - pyautoit](http://www.gcsjj.cn/articles/2019/06/04/1559660792445.html)
 * [天池实验室 - 新人入门](http://www.gcsjj.cn/articles/2019/05/12/1557675052175.html)
 * [ATPCS(ARM-Thumb过程调用标准)](http://www.gcsjj.cn/articles/2019/05/05/1557070850405.html)
-* [2019 迟到的 OKR](http://www.gcsjj.cn/articles/2019/09/13/1568307631494.html)
-* [从"政府工作报告"解读宏观经济](http://www.gcsjj.cn/articles/2019/03/22/1553269533172.html)
 
 ### 热议
 
@@ -73,9 +73,9 @@
 * [城市计算AI挑战赛 - 提交结果](http://www.gcsjj.cn/articles/2019/05/18/1558111076207.html)
 * [Python 小技巧 - 遍历文件](http://www.gcsjj.cn/articles/2019/06/11/1560186159536.html)
 * [Python 简介](http://www.gcsjj.cn/articles/2019/03/12/1552400067284.html)
-* [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
 * [演讲的本质是输出](http://www.gcsjj.cn/articles/2019/03/28/1553786472261.html)
 * [Python 小技巧 - 重试(retry)](http://www.gcsjj.cn/articles/2019/05/10/1557417732914.html)
+* [Kodu - 运算](http://www.gcsjj.cn/articles/2019/04/03/1554223619551.html)
 
 ---
 
