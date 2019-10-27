@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [完全写作指南](http://www.gcsjj.cn/articles/2019/10/27/1572120659472.html)
 * [向Python列表中append可变字典的正确姿势](http://www.gcsjj.cn/articles/2019/10/25/1572013059151.html)
 * [RaspberryPi B2+搭建hass平台](http://www.gcsjj.cn/articles/2019/10/25/1572012599545.html)
 * [NFC门禁卡复制](http://www.gcsjj.cn/articles/2019/10/25/1572012360699.html)
@@ -29,7 +30,6 @@
 * [概率与猜测](http://www.gcsjj.cn/articles/2019/10/05/1570289842198.html)
 * [游三星堆](http://www.gcsjj.cn/articles/2019/10/04/1570199816478.html)
 * [外设 - I2C](http://www.gcsjj.cn/articles/2019/09/28/1569640214065.html)
-* [外设 - UART](http://www.gcsjj.cn/articles/2019/09/27/1569519091446.html)
 
 ### 热门
 
@@ -42,17 +42,17 @@
 * [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
 * [Google 面试题 - 玻璃球](http://www.gcsjj.cn/articles/2019/09/21/1568996649307.html)
 * [成都无人机禁飞区](http://www.gcsjj.cn/articles/2019/05/17/1558108076449.html)
-* [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
 * [Hubot - 入门指南](http://www.gcsjj.cn/articles/2019/04/12/1555001343705.html)
+* [掌控 - 跑步入门](http://www.gcsjj.cn/articles/2019/04/25/1556198951933.html)
+* [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
+* [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
+* [VAK测试表](http://www.gcsjj.cn/articles/2019/04/28/1556384103459.html)
 * [高效能人士的七个习惯 - 习惯一(积极主动)](http://www.gcsjj.cn/articles/2019/09/17/1568731407902.html)
 * [webTable - 快速开发Web可编辑表格](http://www.gcsjj.cn/articles/2019/09/02/1567357261659.html)
 * [批判性思维 - 蔡钰得到课程15讲](http://www.gcsjj.cn/articles/2019/08/22/1566404148128.html)
+* [大疆 - ROBOMASTER S1](http://www.gcsjj.cn/articles/2019/07/08/1562598328197.html)
+* [2019 迟到的 OKR](http://www.gcsjj.cn/articles/2019/09/13/1568307631494.html)
 * [随口之失](http://www.gcsjj.cn/articles/2019/09/25/1569423200177.html)
-* [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
-* [微习惯](http://www.gcsjj.cn/articles/2019/07/08/1562517585687.html)
-* [Python库 - pyautoit](http://www.gcsjj.cn/articles/2019/06/04/1559660792445.html)
-* [天池实验室 - 新人入门](http://www.gcsjj.cn/articles/2019/05/12/1557675052175.html)
-* [ATPCS(ARM-Thumb过程调用标准)](http://www.gcsjj.cn/articles/2019/05/05/1557070850405.html)
 
 ### 热议
 
