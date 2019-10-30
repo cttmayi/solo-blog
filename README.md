@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [奇葩说 - 樊登vs高晓松](http://www.gcsjj.cn/articles/2019/10/31/1572455735706.html)
 * [完全写作指南](http://www.gcsjj.cn/articles/2019/10/27/1572120659472.html)
 * [向Python列表中append可变字典的正确姿势](http://www.gcsjj.cn/articles/2019/10/25/1572013059151.html)
 * [RaspberryPi B2+搭建hass平台](http://www.gcsjj.cn/articles/2019/10/25/1572012599545.html)
@@ -29,34 +30,34 @@
 * [概率 - 贝叶斯规则](http://www.gcsjj.cn/articles/2019/10/06/1570297476985.html)
 * [概率与猜测](http://www.gcsjj.cn/articles/2019/10/05/1570289842198.html)
 * [游三星堆](http://www.gcsjj.cn/articles/2019/10/04/1570199816478.html)
-* [外设 - I2C](http://www.gcsjj.cn/articles/2019/09/28/1569640214065.html)
 
 ### 热门
 
 * [数字痴呆化](http://www.gcsjj.cn/articles/2019/04/07/1554630747019.html)
 * [Kodu - 儿童编程软件](http://www.gcsjj.cn/articles/2019/03/24/1553436148110.html)
 * [一个工作汇报的模板 - 干得不错](http://www.gcsjj.cn/articles/2019/03/16/1552736025323.html)
-* [Kodu - 作品(战争)](http://www.gcsjj.cn/articles/2019/04/07/1554627128535.html)
-* [Google 面试题 - 玻璃球](http://www.gcsjj.cn/articles/2019/09/21/1568996649307.html)
-* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
-* [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
 * [OpenCV3 - 我们从Images开始](http://www.gcsjj.cn/articles/2019/04/02/1554136797836.html)
+* [Google 面试题 - 玻璃球](http://www.gcsjj.cn/articles/2019/09/21/1568996649307.html)
+* [Kodu - 作品(战争)](http://www.gcsjj.cn/articles/2019/04/07/1554627128535.html)
+* [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
+* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
 * [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
 * [成都无人机禁飞区](http://www.gcsjj.cn/articles/2019/05/17/1558108076449.html)
+* [OpenCV3 - OpenCV的绘图函数](http://www.gcsjj.cn/articles/2019/04/02/1554136848113.html)
 * [掌控 - 跑步入门](http://www.gcsjj.cn/articles/2019/04/25/1556198951933.html)
 * [Hubot - 入门指南](http://www.gcsjj.cn/articles/2019/04/12/1555001343705.html)
-* [OpenCV3 - OpenCV的绘图函数](http://www.gcsjj.cn/articles/2019/04/02/1554136848113.html)
 * [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
-* [VAK测试表](http://www.gcsjj.cn/articles/2019/04/28/1556384103459.html)
 * [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
+* [OpenCV3 - Canny 边界检测](http://www.gcsjj.cn/articles/2019/04/02/1554136900061.html)
+* [VAK测试表](http://www.gcsjj.cn/articles/2019/04/28/1556384103459.html)
 * [大疆 - ROBOMASTER S1](http://www.gcsjj.cn/articles/2019/07/08/1562598328197.html)
 * [webTable - 快速开发Web可编辑表格](http://www.gcsjj.cn/articles/2019/09/02/1567357261659.html)
 * [态度 - 好习惯成就一生](http://www.gcsjj.cn/articles/2019/05/30/1559231685475.html)
-* [高效能人士的七个习惯 - 习惯一(积极主动)](http://www.gcsjj.cn/articles/2019/09/17/1568731407902.html)
 
 ### 热议
 
 * [随口之失](http://www.gcsjj.cn/articles/2019/09/25/1569423200177.html)
+* [高效能人士的七个习惯 - 习惯一(积极主动)](http://www.gcsjj.cn/articles/2019/09/17/1568731407902.html)
 * [Python - 挑战(Python Challenge)](http://www.gcsjj.cn/articles/2019/04/20/1555741882461.html)
 * [Python - 编码规范(PEP8)](http://www.gcsjj.cn/articles/2019/04/26/1556289234423.html)
 * [断舍离](http://www.gcsjj.cn/articles/2019/04/16/1555351178363.html)
@@ -73,9 +74,8 @@
 * [城市计算AI挑战赛 - 提交结果](http://www.gcsjj.cn/articles/2019/05/18/1558111076207.html)
 * [Python 小技巧 - 遍历文件](http://www.gcsjj.cn/articles/2019/06/11/1560186159536.html)
 * [Python 简介](http://www.gcsjj.cn/articles/2019/03/12/1552400067284.html)
+* [外设 - I2C](http://www.gcsjj.cn/articles/2019/09/28/1569640214065.html)
 * [演讲的本质是输出](http://www.gcsjj.cn/articles/2019/03/28/1553786472261.html)
-* [Python 小技巧 - 重试(retry)](http://www.gcsjj.cn/articles/2019/05/10/1557417732914.html)
-* [Kodu - 运算](http://www.gcsjj.cn/articles/2019/04/03/1554223619551.html)
 
 ---
 
