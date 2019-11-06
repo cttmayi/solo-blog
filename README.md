@@ -33,26 +33,26 @@
 
 ### 热门
 
+* [AI 未来 - 共产主义即将到来](http://www.gcsjj.cn/articles/2019/06/24/1561316510296.html)
 * [OpenCV3 - 我们从Images开始](http://www.gcsjj.cn/articles/2019/04/02/1554136797836.html)
 * [数字痴呆化](http://www.gcsjj.cn/articles/2019/04/07/1554630747019.html)
 * [Google 面试题 - 玻璃球](http://www.gcsjj.cn/articles/2019/09/21/1568996649307.html)
-* [AI 未来 - 共产主义即将到来](http://www.gcsjj.cn/articles/2019/06/24/1561316510296.html)
-* [一个工作汇报的模板 - 干得不错](http://www.gcsjj.cn/articles/2019/03/16/1552736025323.html)
 * [Kodu - 儿童编程软件](http://www.gcsjj.cn/articles/2019/03/24/1553436148110.html)
+* [一个工作汇报的模板 - 干得不错](http://www.gcsjj.cn/articles/2019/03/16/1552736025323.html)
 * [Kodu - 作品(战争)](http://www.gcsjj.cn/articles/2019/04/07/1554627128535.html)
-* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
+* [OpenCV3 - 轮廓特征](http://www.gcsjj.cn/articles/2019/04/02/1554137025226.html)
 * [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
+* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
 * [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
 * [成都无人机禁飞区](http://www.gcsjj.cn/articles/2019/05/17/1558108076449.html)
-* [OpenCV3 - 轮廓特征](http://www.gcsjj.cn/articles/2019/04/02/1554137025226.html)
-* [OpenCV3 - OpenCV的绘图函数](http://www.gcsjj.cn/articles/2019/04/02/1554136848113.html)
 * [OpenCV3 - 形态转换](http://www.gcsjj.cn/articles/2019/04/02/1554136943750.html)
+* [OpenCV3 - OpenCV的绘图函数](http://www.gcsjj.cn/articles/2019/04/02/1554136848113.html)
 * [掌控 - 跑步入门](http://www.gcsjj.cn/articles/2019/04/25/1556198951933.html)
 * [OpenCV3 - Canny 边界检测](http://www.gcsjj.cn/articles/2019/04/02/1554136900061.html)
+* [天池实验室 - 新人入门](http://www.gcsjj.cn/articles/2019/05/12/1557675052175.html)
 * [Hubot - 入门指南](http://www.gcsjj.cn/articles/2019/04/12/1555001343705.html)
 * [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
 * [VAK测试表](http://www.gcsjj.cn/articles/2019/04/28/1556384103459.html)
-* [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
 
 ### 热议
 
@@ -74,8 +74,8 @@
 * [Python 小技巧 - 遍历文件](http://www.gcsjj.cn/articles/2019/06/11/1560186159536.html)
 * [Python 简介](http://www.gcsjj.cn/articles/2019/03/12/1552400067284.html)
 * [外设 - I2C](http://www.gcsjj.cn/articles/2019/09/28/1569640214065.html)
+* [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
 * [演讲的本质是输出](http://www.gcsjj.cn/articles/2019/03/28/1553786472261.html)
-* [Python 小技巧 - 重试(retry)](http://www.gcsjj.cn/articles/2019/05/10/1557417732914.html)
 
 ---
 
