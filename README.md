@@ -43,8 +43,8 @@
 * [OpenCV3 - 轮廓特征](http://www.gcsjj.cn/articles/2019/04/02/1554137025226.html)
 * [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
 * [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
-* [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
 * [成都无人机禁飞区](http://www.gcsjj.cn/articles/2019/05/17/1558108076449.html)
+* [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
 * [OpenCV3 - 形态转换](http://www.gcsjj.cn/articles/2019/04/02/1554136943750.html)
 * [OpenCV3 - OpenCV的绘图函数](http://www.gcsjj.cn/articles/2019/04/02/1554136848113.html)
 * [掌控 - 跑步入门](http://www.gcsjj.cn/articles/2019/04/25/1556198951933.html)
@@ -52,7 +52,7 @@
 * [天池实验室 - 新人入门](http://www.gcsjj.cn/articles/2019/05/12/1557675052175.html)
 * [Hubot - 入门指南](http://www.gcsjj.cn/articles/2019/04/12/1555001343705.html)
 * [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
-* [VAK测试表](http://www.gcsjj.cn/articles/2019/04/28/1556384103459.html)
+* [城市计算AI挑战赛 - 数据基本分析](http://www.gcsjj.cn/articles/2019/05/14/1557765785976.html)
 
 ### 热议
 
