@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [高效能人士的七个习惯 - 习惯三 (要事第一)](http://www.gcsjj.cn/articles/2019/11/14/1573745941303.html)
 * [奇葩说 - 樊登vs高晓松](http://www.gcsjj.cn/articles/2019/10/31/1572455735706.html)
 * [完全写作指南](http://www.gcsjj.cn/articles/2019/10/27/1572120659472.html)
 * [向Python列表中append可变字典的正确姿势](http://www.gcsjj.cn/articles/2019/10/25/1572013059151.html)
@@ -29,7 +30,6 @@
 * [我和我的祖国](http://www.gcsjj.cn/articles/2019/10/06/1570373448188.html)
 * [概率 - 贝叶斯规则](http://www.gcsjj.cn/articles/2019/10/06/1570297476985.html)
 * [概率与猜测](http://www.gcsjj.cn/articles/2019/10/05/1570289842198.html)
-* [游三星堆](http://www.gcsjj.cn/articles/2019/10/04/1570199816478.html)
 
 ### 热门
 
@@ -44,8 +44,8 @@
 * [Kodu - 作品(战争)](http://www.gcsjj.cn/articles/2019/04/07/1554627128535.html)
 * [天池实验室 - 新人入门](http://www.gcsjj.cn/articles/2019/05/12/1557675052175.html)
 * [城市计算AI挑战赛 - 数据基本分析](http://www.gcsjj.cn/articles/2019/05/14/1557765785976.html)
-* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
 * [成都无人机禁飞区](http://www.gcsjj.cn/articles/2019/05/17/1558108076449.html)
+* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
 * [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
 * [OpenCV3 - 形态转换](http://www.gcsjj.cn/articles/2019/04/02/1554136943750.html)
 * [掌控 - 跑步入门](http://www.gcsjj.cn/articles/2019/04/25/1556198951933.html)
@@ -71,11 +71,11 @@
 * [Code::Blocks (一款开源的C++ IDE)](http://www.gcsjj.cn/articles/2019/06/07/1559921553296.html)
 * [城市计算AI挑战赛 - 提交结果](http://www.gcsjj.cn/articles/2019/05/18/1558111076207.html)
 * [Python 小技巧 - 遍历文件](http://www.gcsjj.cn/articles/2019/06/11/1560186159536.html)
+* [游三星堆](http://www.gcsjj.cn/articles/2019/10/04/1570199816478.html)
 * [Python 简介](http://www.gcsjj.cn/articles/2019/03/12/1552400067284.html)
 * [外设 - I2C](http://www.gcsjj.cn/articles/2019/09/28/1569640214065.html)
 * [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
 * [演讲的本质是输出](http://www.gcsjj.cn/articles/2019/03/28/1553786472261.html)
-* [Python 小技巧 - 重试(retry)](http://www.gcsjj.cn/articles/2019/05/10/1557417732914.html)
 
 ---
 
