@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [资产定义](http://www.gcsjj.cn/articles/2019/11/19/1574093626483.html)
 * [高效能人士的七个习惯 - 习惯三 (要事第一)](http://www.gcsjj.cn/articles/2019/11/14/1573745941303.html)
 * [奇葩说 - 樊登vs高晓松](http://www.gcsjj.cn/articles/2019/10/31/1572455735706.html)
 * [完全写作指南](http://www.gcsjj.cn/articles/2019/10/27/1572120659472.html)
@@ -29,7 +30,6 @@
 * [算术题产生器](http://www.gcsjj.cn/articles/2019/10/07/1570453936650.html)
 * [我和我的祖国](http://www.gcsjj.cn/articles/2019/10/06/1570373448188.html)
 * [概率 - 贝叶斯规则](http://www.gcsjj.cn/articles/2019/10/06/1570297476985.html)
-* [概率与猜测](http://www.gcsjj.cn/articles/2019/10/05/1570289842198.html)
 
 ### 热门
 
@@ -49,10 +49,10 @@
 * [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
 * [OpenCV3 - 形态转换](http://www.gcsjj.cn/articles/2019/04/02/1554136943750.html)
 * [掌控 - 跑步入门](http://www.gcsjj.cn/articles/2019/04/25/1556198951933.html)
-* [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
 * [OpenCV3 - OpenCV的绘图函数](http://www.gcsjj.cn/articles/2019/04/02/1554136848113.html)
-* [OpenCV3 - Canny 边界检测](http://www.gcsjj.cn/articles/2019/04/02/1554136900061.html)
 * [Hubot - 入门指南](http://www.gcsjj.cn/articles/2019/04/12/1555001343705.html)
+* [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
+* [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
 
 ### 热议
 
