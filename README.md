@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [正确的决策不等于会有正确的结果](http://www.gcsjj.cn/articles/2019/11/20/1574187757918.html)
 * [资产定义](http://www.gcsjj.cn/articles/2019/11/19/1574093626483.html)
 * [高效能人士的七个习惯 - 习惯三 (要事第一)](http://www.gcsjj.cn/articles/2019/11/14/1573745941303.html)
 * [奇葩说 - 樊登vs高晓松](http://www.gcsjj.cn/articles/2019/10/31/1572455735706.html)
@@ -29,7 +30,6 @@
 * [通识教育](http://www.gcsjj.cn/articles/2019/10/10/1570637674848.html)
 * [算术题产生器](http://www.gcsjj.cn/articles/2019/10/07/1570453936650.html)
 * [我和我的祖国](http://www.gcsjj.cn/articles/2019/10/06/1570373448188.html)
-* [概率 - 贝叶斯规则](http://www.gcsjj.cn/articles/2019/10/06/1570297476985.html)
 
 ### 热门
 
@@ -43,16 +43,16 @@
 * [OpenCV3 - 轮廓特征](http://www.gcsjj.cn/articles/2019/04/02/1554137025226.html)
 * [Kodu - 作品(战争)](http://www.gcsjj.cn/articles/2019/04/07/1554627128535.html)
 * [天池实验室 - 新人入门](http://www.gcsjj.cn/articles/2019/05/12/1557675052175.html)
-* [城市计算AI挑战赛 - 数据基本分析](http://www.gcsjj.cn/articles/2019/05/14/1557765785976.html)
 * [成都无人机禁飞区](http://www.gcsjj.cn/articles/2019/05/17/1558108076449.html)
-* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
+* [城市计算AI挑战赛 - 数据基本分析](http://www.gcsjj.cn/articles/2019/05/14/1557765785976.html)
 * [Kodu - 创建游戏角色](http://www.gcsjj.cn/articles/2019/03/25/1553444108085.html)
+* [工作中的简报技巧](http://www.gcsjj.cn/articles/2019/03/15/1552579837842.html)
 * [OpenCV3 - 形态转换](http://www.gcsjj.cn/articles/2019/04/02/1554136943750.html)
 * [掌控 - 跑步入门](http://www.gcsjj.cn/articles/2019/04/25/1556198951933.html)
 * [OpenCV3 - OpenCV的绘图函数](http://www.gcsjj.cn/articles/2019/04/02/1554136848113.html)
-* [Hubot - 入门指南](http://www.gcsjj.cn/articles/2019/04/12/1555001343705.html)
 * [Android GPU分析利器(GAPID)](http://www.gcsjj.cn/articles/2019/06/04/1559658578252.html)
-* [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
+* [Hubot - 入门指南](http://www.gcsjj.cn/articles/2019/04/12/1555001343705.html)
+* [OpenCV3 - Canny 边界检测](http://www.gcsjj.cn/articles/2019/04/02/1554136900061.html)
 
 ### 热议
 
@@ -65,6 +65,7 @@
 * [Linux常用命令](http://www.gcsjj.cn/articles/2019/05/05/1557067926481.html)
 * [Python 基础语法](http://www.gcsjj.cn/articles/2019/03/12/1552402976191.html)
 * [scikit-learn算法选择图](http://www.gcsjj.cn/articles/2019/05/14/1557848255248.html)
+* [极限控制 - 使胜利成为习惯](http://www.gcsjj.cn/articles/2019/09/09/1568042197879.html)
 * [批判性思维](http://www.gcsjj.cn/articles/2019/08/09/1565364655301.html)
 * [无目标, 不演讲](http://www.gcsjj.cn/articles/2019/03/28/1553788311452.html)
 * [ARM 工作模式及寄存器](http://www.gcsjj.cn/articles/2019/05/05/1557069558076.html)
@@ -75,7 +76,6 @@
 * [Python 简介](http://www.gcsjj.cn/articles/2019/03/12/1552400067284.html)
 * [外设 - I2C](http://www.gcsjj.cn/articles/2019/09/28/1569640214065.html)
 * [Pandas - 配合Matplotlib绘制简单图表](http://www.gcsjj.cn/articles/2019/05/13/1557758228724.html)
-* [演讲的本质是输出](http://www.gcsjj.cn/articles/2019/03/28/1553786472261.html)
 
 ---
 
